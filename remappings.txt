@@ -1,0 +1,1 @@
+@fortefoundation/forte-rules-engine/=node_modules/@fortefoundation/forte-rules-engine
